@@ -1,2 +1,5 @@
+# Camera
+persist.sys.camera.fallback_id_2=20
+
 # Notch
 ro.miui.notch=1
